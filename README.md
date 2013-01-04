@@ -4,6 +4,8 @@ This repository contains code and examples for the paper:
  [Varun Ramakrishna](http://www.cs.cmu.edu/~vramakri), [Yaser Sheikh](http://www.cs.cmu.edu/~yaser), [Takeo Kanade](http://wwww.cs.cmu.edu/~tk) <br />
   European Conference on Computer Vision, 2012.
   
+Please cite the above paper if you use the code in your work.
+  
 * Copyright (C) 2012 by Varun Ramakrishna
                         
     camera_and_pose is free software: you can redistribute it and/or 
