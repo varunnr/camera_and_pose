@@ -6,17 +6,11 @@ This repository contains code and examples for the paper:
   
 Please cite the above paper if you use the code in your work.
   
-* Copyright (C) 2012 by Varun Ramakrishna
+---  
+**Copyright (C) 2012 by Varun Ramakrishna**
                         
-    camera_and_pose is free software: you can redistribute it and/or 
-    modify it under the terms of the GNU General Public License as 
-    published by (at your option) any later version.
+camera_and_pose is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by (at your option) any later version.
 																				
-    camera_and_pose is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
+camera_and_pose is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 																				
-    You should have received a copy of the GNU General Public licenses
-    along with camera_and_pose.  If not, see
-    <http://www.gnu.org/licenses/>.
+You should have received a copy of the GNU General Public licenses along with camera_and_pose.  If not, see <http://www.gnu.org/licenses/>.
