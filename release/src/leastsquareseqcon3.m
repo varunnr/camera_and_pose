@@ -1,6 +1,6 @@
 function [x, xsol] = leastsquareseqcon3(A,b,C,d,alpha)
 
-% Solve generalized SVD to get gammas and alphas.
+% Solve generalized SVD to get gammas and alphas. Please refer Gander et al, for description of the algorithm.
 
 [U,V,X,Da,Dc] = gsvd(A,C);
 c = U'*b;
