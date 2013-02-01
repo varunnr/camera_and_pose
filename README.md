@@ -1,7 +1,7 @@
 This repository contains code and examples for the paper:
 
  Reconstructing 3D Human Pose from 2D Image Landmarks. <br />
- [Varun Ramakrishna](http://www.cs.cmu.edu/~vramakri), [Yaser Sheikh](http://www.cs.cmu.edu/~yaser), [Takeo Kanade](http://wwww.cs.cmu.edu/~tk) <br />
+ [Varun Ramakrishna](http://www.cs.cmu.edu/~vramakri), [Takeo Kanade](http://wwww.cs.cmu.edu/~tk),  [Yaser Sheikh](http://www.cs.cmu.edu/~yaser)<br />
   European Conference on Computer Vision, 2012.
   
 Please cite the above paper if you use the code in your work.
